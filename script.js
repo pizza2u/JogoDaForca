@@ -182,7 +182,7 @@ window.onload = function () {
     // JOGAR
     play = function () {
       categories = [
-          ["flamengo", "palmeiras", "fluminense", "corintias", "são-paulo", "cruzeiro", "internacional"],
+          ["flamengo", "palmeiras", "fluminense", "corinthias", "são-paulo", "cruzeiro", "internacional"],
           ["natal", "recife", "teresina", "salvador", "goiania"],
           ["acaraje", "cuscuz", "churrasco", "feijoada", "tacaca"]
       ];
